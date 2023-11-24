@@ -4,7 +4,7 @@ My first repository
 
 > # My Favorite Series/Movie :tv:
 > 
-## Title: [Title of Your Series/Movie]
+## Title: 
 >
 >  - John Wick
 >  ![alt text](John_Wick_Keanu.jpg)
